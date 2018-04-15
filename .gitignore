@@ -49,3 +49,14 @@
 /ExpenseTrackerCoreDal/bin/Debug/netcoreapp2.0
 /ExpenseTrackerCoreDal/obj
 /ExpenseTrackerCoreDB
+/ExpenseTrackerCore/Models/AccountBindingModels.cs
+/ExpenseTrackerCore/Models/AccountViewModels.cs
+/ExpenseTrackerCore/Models/ErrorViewModel.cs
+/ExpenseTrackerCore/Models/User.cs
+/ExpenseTrackerCore/wwwroot/favicon.ico
+/ExpenseTrackerCore/gulpfile.js
+/package.json
+/package-lock.json
+/ExpenseTrackerCore/Controllers/EthiopianCalendarInfoController.cs
+/ExpenseTrackerCore/Controllers/EkubApiController.cs
+/ExpenseTrackerCore/Controllers/HomeController.cs
